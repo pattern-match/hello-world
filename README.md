@@ -6,7 +6,7 @@ Project created with `lein new compojure hello-world`
 
 To start a web server for the application, run:
 
-    lein ring server
+`lein run` which starts a server on port 5000
     
 ## Heroku
 

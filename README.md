@@ -1,19 +1,17 @@
 # hello-world
 
-FIXME
-
-## Prerequisites
-
-You will need [Leiningen][] 2.0.0 or above installed.
-
-[leiningen]: https://github.com/technomancy/leiningen
+Project created with `lein new compojure hello-world`
 
 ## Running
 
 To start a web server for the application, run:
 
     lein ring server
+    
+## Heroku
 
-## License
+See https://devcenter.heroku.com/articles/getting-started-with-clojure?singlepage=true
 
-Copyright © 2021 FIXME
+## Licence
+
+Copyright © 2021 Andrew Whitehouse
